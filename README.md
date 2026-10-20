@@ -1,4 +1,4 @@
-# roblox-reshade-preset
+# roblox-reshade-preset v1.0.0
 Beautiful and realistic ReShade preset for Roblox.
 # 🌟 Автоматический установщик пресета RoShade для Roblox
 
