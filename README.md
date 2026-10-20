@@ -1,8 +1,8 @@
 # roblox-reshade-preset v1.0.0
 Beautiful and realistic ReShade preset for Roblox.
 # 🌟 Автоматический установщик пресета RoShade для Roblox
-
 Мой кастомный графический пресет для **RoShade**, оформленный в виде удобного автоматического установщика. Программа сама найдет нужные директории и настроит графику для вашей игры. Он делает картинку более сочной, добавляет реалистичные тени и сглаживание.
+<img width="1541" height="517" alt="image" src="https://github.com/user-attachments/assets/26e864f2-8815-46f6-be3d-9e92d94fcab1" />
 
 ## 🛠️ Как установить
 
