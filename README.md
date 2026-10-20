@@ -7,6 +7,7 @@ Beautiful and realistic ReShade preset for Roblox.
 ## 🛠️ Как установить
 
 Вам больше не нужно вручную переносить файлы в папки программы! 
+<img width="572" height="493" alt="image" src="https://github.com/user-attachments/assets/182bfe6e-2287-4b8b-90de-53489e8f8977" />
 
 ### Пошаговая инструкция:
 1. Перейдите в блок **Releases** (Релизы) на правой панели этой страницы и скачайте актуальный `.exe` файл (или скачайте его из списка файлов выше).
